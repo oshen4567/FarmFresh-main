@@ -39,8 +39,8 @@ if(!isset($user_id)){
    <div class="row">
 
       <div class="box">
-         <h3> Our food should be our medicine</h3>
-         <p>Farm fresh is the complete Organic and healthy food solution, which allows Sri Lankans to grow and eat Organic, Fresh and healthy food.</p>
+         <h3> Our pets</h3>
+         <p>our prts directly imported from USA and some have been made by the local fresh pet dealers around srilanka. If you have any incuries u can send us a message by clicking below button</p>
          <a href="contact.php" class="btn">contact us</a>
         
 
@@ -48,7 +48,7 @@ if(!isset($user_id)){
 
       <div class="box">
          <h3>what we provide?</h3>
-         <p>Due to shortage of fertilizer and fuel crisis in our country, we have created farm fresh to deliver using natural fertilizers vegetables, fruits and natural meats and fish to people's homes.Delivery Near Batticaloa district</p>
+         <p>We have created Star fish paradise to give your favourite pets to your door step by clicking bleow button</p>
          <a href="shop.php" class="btn">our shop</a>
       </div>
 
