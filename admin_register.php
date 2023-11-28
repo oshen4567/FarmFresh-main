@@ -64,7 +64,7 @@ if(isset($_POST['submit'])){
 <style>
 body {
   background-color: rgb(245, 245, 245);
-  background-image: url("https://img.freepik.com/premium-photo/organic-food-fresh-vegetables-fruits-white-background-top-view-free-copy-space_187166-3068.jpg?w=2000");
+  background-image: url("images/images/loginPage.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-origin: content-box;
