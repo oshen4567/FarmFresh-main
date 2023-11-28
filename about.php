@@ -103,14 +103,6 @@ if(!isset($user_id)){
 
 </section>
 
-
-
-
-
-
-
-
-
 <?php include 'footer.php'; ?>
 
 <script src="js/script.js"></script>
